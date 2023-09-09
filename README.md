@@ -62,9 +62,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Thanks to the creators of the Pillow library for image manipulation.
 - Inspired by anime posters of various series.
 
-## Author
 
-- Your Name
-- GitHub: [Your GitHub Profile](https://github.com/your-username)
-
-Feel free to customize this README to provide more detailed information about your project, usage examples, and any other relevant details.
